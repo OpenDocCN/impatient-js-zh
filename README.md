@@ -62,7 +62,7 @@ impatient-js-zh <port>
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
 
-## 赞助我们
+## 赞助我
 
 本项目由[飞龙](https://github.com/wizardforcel)赞助，扫下面的二维码打赏他来表示感谢：
 
