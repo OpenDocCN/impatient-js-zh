@@ -12,7 +12,7 @@
 > 
 > 世界上有 10 种人，其中一种懂二进制，另一种则不懂。
 
-* [在线阅读](https://impatient-js.apachecn.org)
+* [在线阅读](https://impatient-js.flygon.net)
 ## 下载
 
 ### Docker
